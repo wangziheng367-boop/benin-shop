@@ -1,0 +1,6 @@
+name = "benin-shop"
+main = "worker.js"
+compatibility_date = "2026-09-02"
+
+# D1 will be attached from the Cloudflare dashboard after the first deployment.
+# Do not put ADMIN_PASSWORD in this file. Add it as a Worker Secret.
